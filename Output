@@ -1,0 +1,50 @@
+#output
+E:\Car Rental System\src>java Main
+===== Car Rental System =====
+1. Rent a Car
+2. Return a Car
+3. Exit
+Enter your choice: 1
+
+== Rent a Car ==
+
+Enter your name: Nikita
+
+Available Cars:
+C001 - Toyota Camry
+C002 - Honda Accord
+C003 - Mahindra Thar
+
+Enter the car ID you want to rent: C001
+Enter the number of days for rental: 2
+
+== Rental Information ==
+
+Customer ID: CUS1
+Customer Name: Nikita
+Car: Toyota Camry
+Rental Days: 2
+Total Price: $120.00
+
+Confirm rental (Y/N): Y
+
+Car rented successfully.
+
+===== Car Rental System =====
+1. Rent a Car
+2. Return a Car
+3. Exit
+Enter your choice: 2
+
+== Return a Car ==
+
+Enter the car ID you want to return: C001
+Car returned successfully by Nikita
+===== Car Rental System =====
+1. Rent a Car
+2. Return a Car
+3. Exit
+Enter your choice:
+3
+
+Thank you for using the Car Rental System!
